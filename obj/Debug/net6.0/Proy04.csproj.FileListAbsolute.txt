@@ -1,0 +1,15 @@
+C:\Users\yasis\varios\Proy04\bin\Debug\net6.0\Proy04.exe
+C:\Users\yasis\varios\Proy04\bin\Debug\net6.0\Proy04.deps.json
+C:\Users\yasis\varios\Proy04\bin\Debug\net6.0\Proy04.runtimeconfig.json
+C:\Users\yasis\varios\Proy04\bin\Debug\net6.0\Proy04.dll
+C:\Users\yasis\varios\Proy04\bin\Debug\net6.0\Proy04.pdb
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\Proy04.csproj.AssemblyReference.cache
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\Proy04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\Proy04.AssemblyInfoInputs.cache
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\Proy04.AssemblyInfo.cs
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\Proy04.csproj.CoreCompileInputs.cache
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\Proy04.dll
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\refint\Proy04.dll
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\Proy04.pdb
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\Proy04.genruntimeconfig.cache
+C:\Users\yasis\varios\Proy04\obj\Debug\net6.0\ref\Proy04.dll
